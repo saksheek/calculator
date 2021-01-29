@@ -54,6 +54,7 @@ body{
 @media(max-width:1028px){
   .cal-grid{
     margin: 10%;
+    margin-top:25%;
     display: grid;
     justify-content: center;
     align-content: : center;
